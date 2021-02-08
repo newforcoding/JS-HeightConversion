@@ -1,0 +1,51 @@
+#container{
+    margin-left: 350px;
+    padding-left: 30px;
+    background-color: thistle;
+    border-radius: 5px;
+    width: 375px;
+    height: 425px;
+    color: rgb(105, 21, 126);
+    
+}
+h1{
+    font-family:cursive;
+    color: rgb(105, 21, 126);;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+#feet{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-radius: 2px;
+}
+#inches{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-radius: 2px;
+}
+#result{
+    font-size: 35px;
+    margin-left: 60px;
+    color: rgb(69, 20, 80);
+}
+#submit{
+    width: 250px;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 3px;
+    border-style: none;
+    background-color: rgb(154, 87, 185);
+    color: rgb(233, 217, 233);
+    font-size: 20px;
+    padding: 5px;
+}
+p{
+    font-family:cursive;
+    }
